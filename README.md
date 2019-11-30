@@ -1,4 +1,4 @@
 # Codewars Katas
 My Codewars JavaScript solutions
 
-Link to my profile: https://www.codewars.com/users/zhaivoronok
+<a href="https://www.codewars.com/users/zhaivoronok" target="_blank">Link to my profile</a>
