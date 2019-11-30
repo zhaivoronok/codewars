@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/514b92a657cdc65150000006
+// https://www.codewars.com/kata/multiples-of-3-or-5/javascript
 
 function solution(number) {
   let sum = 0;

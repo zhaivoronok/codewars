@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/534ffb35edb1241eda0015fe
+// https://www.codewars.com/kata/blackjack-scorer/javascript
 
 function scoreHand(cards) {
   let values = 0;
